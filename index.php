@@ -3,10 +3,10 @@
   
 
 
-    $servername = "db4free.net";
-    $user="visie_user";
-    $pass="visie_pass";
-    $db_name="visie_db"; 
+    $servername = "";
+    $user="";
+    $pass="";
+    $db_name=""; 
  
  
  
